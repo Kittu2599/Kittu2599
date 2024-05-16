@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrikrishnaLaxetti
-- 👀 I’m interested in AWS Devops 
-- 🌱 I’m currently learning ... AWS 
+- 👀 I’m interested in Software Industry 
+- 🌱 I Have Knowledge on Python and Oracle sql pl/sql 
 - 💞️ I’m looking to collaborate on ...MNC company 
 - 📫 How to reach me ... kittuak25@gmail.com
 
